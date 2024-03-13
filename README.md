@@ -1,2 +1,2 @@
 # CT-DS-UC4_JG_01-24-
-Curso Técnico de Desenvolvimento de Sistemas - EE José Gonçalves
+Rep do CT de DS José Gonçalves - UC4 - 01-24
